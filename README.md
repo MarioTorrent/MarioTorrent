@@ -19,7 +19,7 @@ Además, realicé una práctica profesional en **WES IT**, participando en activ
 
 ### Mis proyectos:
 
-| <a href="https://github.com/MarioTorrent/Py-SimonGame"> PySimon </a>|<a href=""> LogiPack </a>|
+| <a href="https://github.com/MarioTorrent/Py-SimonGame"> PySimon </a>|<a href="https://github.com/MarioTorrent/LogiPack"> LogiPack </a>|
 |----------|----------|
 | <p align="center"><img src="https://drive.google.com/uc?export=view&id=1pbVE6ujb6xs3kjZpraRONDs0EFHV_UuJ" width="250"/></p> <br> Un juego de memoria inspirado en el clásico “Simon”.<br>Con 3 dificultades, un timer, y una tabla de clasificaciones <br> <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Tkinter-FF9800?style=for-the-badge" /></p>| <p align="center"><img src="https://drive.google.com/uc?export=view&id=1MnuX9X99-hET8yiU-4Vnux0-Jt13mwYC" height=200 /></p> <br> **Trabajo Práctico de POO**<br>Aplicación web de Gestión de Entrega de Paquetes<br><p align="center">  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" /></p>|
 
